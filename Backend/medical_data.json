@@ -1,0 +1,12 @@
+{
+    "qdrant": [
+      {
+        "title": "Sample Medical Document 1",
+        "abstract": "This is a sample medical abstract about healthcare research."
+      },
+      {
+        "title": "Sample Medical Document 2",
+        "abstract": "Another sample medical abstract discussing clinical findings."
+      }
+    ]
+  }
